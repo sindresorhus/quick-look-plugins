@@ -5,6 +5,13 @@
 
 ## Install
 
+### Automatic installation
+- Run `python install.py`
+
+Note: QuickLookCSV is not supported by this method, due to it being bundled as a DMG.
+You will need to install this manually.
+
+### Manual installation.
 - Move the downloaded `.qlgenerator` file to `~/Library/QuickLook`
 - Run `qlmanage -r`
 
