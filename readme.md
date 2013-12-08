@@ -5,7 +5,7 @@
 
 ## Install
 
-- Move the downloaded `.qlgenerator` file to `~/Library/QuickLook`
+- Move the downloaded `.qlgenerator` file to `/Library/QuickLook`
 - Run `qlmanage -r`
 
 
