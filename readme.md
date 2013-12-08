@@ -13,7 +13,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook && qlmanage -r
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package && qlmanage -r
 ```
 
 ### Manually
@@ -96,6 +96,15 @@ Run `brew cask install betterzipql` or [download manually](http://macitbetter.co
 Run `brew cask install webp-quicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases)
 
 ![](screenshots/WebP.png)
+
+
+### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)
+
+> Preview the contents of a standard Apple installer package
+
+Run `brew cask install suspicious-package` or [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg)
+
+![](screenshots/SuspiciousPackage.png)
 
 
 ## Tip
