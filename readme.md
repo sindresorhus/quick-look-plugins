@@ -5,7 +5,21 @@
 
 ## Install
 
-- Move the downloaded `.qlgenerator` file to `/Library/QuickLook`
+### Using [Homebrew Cask](https://github.com/phinze/homebrew-cask)
+
+- Run `brew cask install <package>`
+- Run `qlmanage -r`
+
+#### Install all
+
+```
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook && qlmanage -r
+```
+
+### Manually
+
+- Click "download manually"
+- Move the downloaded .qlgenerator file to /Library/QuickLook
 - Run `qlmanage -r`
 
 
@@ -16,7 +30,7 @@
 
 > Preview source code files with syntax highlighting
 
-[Download](https://qlcolorcode.googlecode.com/files/QLColorCode-2.0.2.tgz)
+Run `brew cask install qlcolorcode` or [download manually](https://qlcolorcode.googlecode.com/files/QLColorCode-2.0.2.tgz)
 
 ![](screenshots/QLColorCode.png)
 
@@ -25,7 +39,7 @@
 
 > Preview plain text files without a file extension. Example: README, CHANGELOG, etc.
 
-[Download](https://github.com/whomwah/qlstephen/releases)
+Run `brew cask install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases)
 
 ![](screenshots/QLStephen.png)
 
@@ -34,7 +48,7 @@
 
 > Preview Markdown files
 
-[Download](https://github.com/downloads/toland/qlmarkdown/QLMarkdown-1.3.zip)
+Run `brew cask install qlmarkdown` or [download manually](https://github.com/downloads/toland/qlmarkdown/QLMarkdown-1.3.zip)
 
 ![](screenshots/QLMarkdown.png)
 
@@ -43,7 +57,7 @@
 
 > Preview JSON files
 
-[Download](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
+Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
 ![](screenshots/QuickLookJSON.png)
 
@@ -52,7 +66,7 @@
 
 > Preview .patch files
 
-[Download](https://github.com/atnan/QLPrettyPatch/releases)
+Run `brew cask install qlprettypatch` or [download manually](https://github.com/atnan/QLPrettyPatch/releases)
 
 ![](screenshots/QLPrettyPatch.png)
 
@@ -61,7 +75,7 @@
 
 > Preview CSV files
 
-[Download](http://quicklook-csv.googlecode.com/files/QuickLookCSV.dmg)
+Run `brew cask install quicklook-csv` or [download manually](http://quicklook-csv.googlecode.com/files/QuickLookCSV.dmg)
 
 ![](screenshots/QuickLookCSV.png)
 
@@ -70,7 +84,7 @@
 
 > Preview archives
 
-[Download](http://macitbetter.com/BetterZipQL.zip)
+Run `brew cask install betterzipql` or [download manually](http://macitbetter.com/BetterZipQL.zip)
 
 ![](screenshots/BetterZipQL.png)
 
@@ -79,7 +93,7 @@
 
 > Preview WebP images
 
-[Download](https://github.com/dchest/webp-quicklook/releases)
+Run `brew cask install webp-quicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases)
 
 ![](screenshots/WebP.png)
 
