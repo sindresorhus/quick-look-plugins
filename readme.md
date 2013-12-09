@@ -107,6 +107,11 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 ![](screenshots/SuspiciousPackage.png)
 
 
+## More
+
+- [Provisioning](https://github.com/chockenberry/Provisioning) - preview .mobileprovision (iOS) and .provisionprofile (OS X) files
+
+
 ## Tip
 
 Run this in your terminal to allow text selection in the Quick Look window:
