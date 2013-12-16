@@ -128,5 +128,8 @@ defaults write com.apple.finder QLEnableTextSelection -bool true && killall Find
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work. This work is published from: Norway.
 
+-
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sindresorhus/quick-look-plugins/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/0b54c5ec592f8133bd3d1b7abea99ef1 "githalytics.com")](http://githalytics.com/sindresorhus/quick-look-plugins)
