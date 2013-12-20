@@ -111,6 +111,7 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 
 - [Provisioning](https://github.com/chockenberry/Provisioning) - preview .mobileprovision (iOS) and .provisionprofile (OS X) files
 - [CertQuickLook](https://code.google.com/p/cert-quicklook/) - preview various unprotected certificate tokens like X509 certificates, DER or PEM
+- [CocoaDeveloper Quicklook Plugin](http://kfi-apps.com/plugins/ipaql/) - preview iOS / OS X app and provision information
 
 
 ## Tip
