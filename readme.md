@@ -8,12 +8,11 @@
 ### Using [Homebrew Cask](https://github.com/phinze/homebrew-cask)
 
 - Run `brew cask install <package>`
-- Run `qlmanage -r`
 
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package && qlmanage -r
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package
 ```
 
 ### Manually
