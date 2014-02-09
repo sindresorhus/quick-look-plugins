@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package ipaql
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package
 ```
 
 ### Manually
@@ -106,6 +106,8 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 ![](screenshots/SuspiciousPackage.png)
 
 
+## More
+
 ### [CocoaDeveloper Quicklook Plugin](http://kfi-apps.com/plugins/ipaql/)
 
 > Preview iOS / OS X app and provision information
@@ -113,9 +115,6 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 Run `brew cask install ipaql` or [download manually](http://kfi-apps.com/site/assets/files/1006/ipaql_1-3-0.zip)
 
 ![](screenshots/ipaql.png)
-
-
-## More
 
 - [Provisioning](https://github.com/chockenberry/Provisioning) - preview .mobileprovision (iOS) and .provisionprofile (OS X) files
 - [CertQuickLook](https://code.google.com/p/cert-quicklook/) - preview various unprotected certificate tokens like X509 certificates, DER or PEM
