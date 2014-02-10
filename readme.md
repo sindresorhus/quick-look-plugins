@@ -116,6 +116,7 @@ Run `brew cask install ipaql` or [download manually](http://kfi-apps.com/site/as
 
 ![](screenshots/ipaql.png)
 
+
 - [Provisioning](https://github.com/chockenberry/Provisioning) - preview .mobileprovision (iOS) and .provisionprofile (OS X) files
 - [CertQuickLook](https://code.google.com/p/cert-quicklook/) - preview various unprotected certificate tokens like X509 certificates, DER or PEM
 
@@ -134,9 +135,3 @@ defaults write com.apple.finder QLEnableTextSelection -bool true && killall Find
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work. This work is published from: Norway.
-
--
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sindresorhus/quick-look-plugins/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/0b54c5ec592f8133bd3d1b7abea99ef1 "githalytics.com")](http://githalytics.com/sindresorhus/quick-look-plugins)
