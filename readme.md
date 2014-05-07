@@ -116,6 +116,15 @@ Run `brew cask install ipaql` or [download manually](http://kfi-apps.com/site/as
 
 ![](screenshots/ipaql.png)
 
+### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
+
+> Preview iOS / OS X app and provision information, iOS 7 & OSX 10.9 compatible
+
+Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/download/1.0.0/ProvisionQL.zip)
+
+![Thumbnails example](https://raw.github.com/ealeksandrov/ProvisionQL/master/Screenshots/1.png)
+
+### Other great tools:
 
 - [Provisioning](https://github.com/chockenberry/Provisioning) - preview .mobileprovision (iOS) and .provisionprofile (OS X) files
 - [CertQuickLook](https://code.google.com/p/cert-quicklook/) - preview various unprotected certificate tokens like X509 certificates, DER or PEM
