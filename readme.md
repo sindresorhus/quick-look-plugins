@@ -31,7 +31,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 
 Run `brew cask install qlcolorcode` or [download manually](https://qlcolorcode.googlecode.com/files/QLColorCode-2.0.2.tgz)
 
-![](screenshots/QLColorCode.png)
+[![](screenshots/QLColorCode.png)](https://code.google.com/p/qlcolorcode/)
 
 
 ### [QLStephen](https://github.com/whomwah/qlstephen)
@@ -40,7 +40,7 @@ Run `brew cask install qlcolorcode` or [download manually](https://qlcolorcode.g
 
 Run `brew cask install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases)
 
-![](screenshots/QLStephen.png)
+[![](screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
 
 
 ### [QLMarkdown](https://github.com/toland/qlmarkdown)
@@ -49,7 +49,7 @@ Run `brew cask install qlstephen` or [download manually](https://github.com/whom
 
 Run `brew cask install qlmarkdown` or [download manually](https://github.com/downloads/toland/qlmarkdown/QLMarkdown-1.3.zip)
 
-![](screenshots/QLMarkdown.png)
+[![](screenshots/QLMarkdown.png)](https://github.com/toland/qlmarkdown)
 
 
 ### [QuickLookJSON](http://www.sagtau.com/quicklookjson.html)
@@ -58,7 +58,7 @@ Run `brew cask install qlmarkdown` or [download manually](https://github.com/dow
 
 Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
-![](screenshots/QuickLookJSON.png)
+[![](screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 
 
 ### [QLPrettyPatch](https://github.com/atnan/QLPrettyPatch)
@@ -67,7 +67,7 @@ Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.
 
 Run `brew cask install qlprettypatch` or [download manually](https://github.com/atnan/QLPrettyPatch/releases)
 
-![](screenshots/QLPrettyPatch.png)
+[![](screenshots/QLPrettyPatch.png)](https://github.com/atnan/QLPrettyPatch)
 
 
 ### [QuickLookCSV](https://github.com/p2/quicklook-csv)
@@ -76,7 +76,7 @@ Run `brew cask install qlprettypatch` or [download manually](https://github.com/
 
 Run `brew cask install quicklook-csv` or [download manually](http://quicklook-csv.googlecode.com/files/QuickLookCSV.dmg)
 
-![](screenshots/QuickLookCSV.png)
+[![](screenshots/QuickLookCSV.png)](https://github.com/p2/quicklook-csv)
 
 
 ### [BetterZipQL](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
@@ -85,7 +85,7 @@ Run `brew cask install quicklook-csv` or [download manually](http://quicklook-cs
 
 Run `brew cask install betterzipql` or [download manually](http://macitbetter.com/BetterZipQL.zip)
 
-![](screenshots/BetterZipQL.png)
+[![](screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
 
 ### [WebP](https://github.com/dchest/webp-quicklook)
@@ -94,7 +94,7 @@ Run `brew cask install betterzipql` or [download manually](http://macitbetter.co
 
 Run `brew cask install webp-quicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases)
 
-![](screenshots/WebP.png)
+[![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
 
 ### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)
@@ -103,7 +103,7 @@ Run `brew cask install webp-quicklook` or [download manually](https://github.com
 
 Run `brew cask install suspicious-package` or [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg)
 
-![](screenshots/SuspiciousPackage.png)
+[![](screenshots/SuspiciousPackage.png)](http://www.mothersruin.com/software/SuspiciousPackage/)
 
 
 ## More
@@ -116,7 +116,7 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 
 Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases)
 
-![](screenshots/ProvisionQL.png)
+[![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
 ### Other
 
@@ -136,4 +136,4 @@ defaults write com.apple.finder QLEnableTextSelection -bool true && killall Find
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work. This work is published from: Norway.
+To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
