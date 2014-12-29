@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webpquicklook suspicious-package
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package
 ```
 
 ### Manually
@@ -86,6 +86,15 @@ Run `brew cask install quicklook-csv` or [download manually](http://quicklook-cs
 Run `brew cask install betterzipql` or [download manually](http://macitbetter.com/BetterZipQL.zip)
 
 [![](screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
+
+
+### [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
+
+> Display image size and resolution
+
+Run `brew cask install qlimagesize` or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
+
+[![](screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
 
 ### [WebP](https://github.com/dchest/webp-quicklook)
