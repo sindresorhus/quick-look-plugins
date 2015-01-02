@@ -110,7 +110,7 @@ Run `brew cask install webpquicklook` or [download manually](https://github.com/
 
 > Preview the contents of a standard Apple installer package
 
-Run `brew cask install suspicious-package` or [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg)
+Run `brew cask install suspicious-package` or [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.pkg)
 
 [![](screenshots/SuspiciousPackage.png)](http://www.mothersruin.com/software/SuspiciousPackage/)
 
