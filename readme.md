@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webpquicklook suspicious-package
 ```
 
 ### Manually
@@ -92,7 +92,7 @@ Run `brew cask install betterzipql` or [download manually](http://macitbetter.co
 
 > Preview WebP images
 
-Run `brew cask install webp-quicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases)
+Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases)
 
 ![](screenshots/WebP.png)
 
