@@ -132,15 +132,6 @@ Run `brew cask install provisionql` or [download manually](https://github.com/ea
 - [CertQuickLook](https://code.google.com/p/cert-quicklook/) - preview various unprotected certificate tokens like X509 certificates, DER or PEM
 
 
-## Tip
-
-Run this in your terminal to allow text selection in the Quick Look window:
-
-```
-defaults write com.apple.finder QLEnableTextSelection -bool true && killall Finder
-```
-
-
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
