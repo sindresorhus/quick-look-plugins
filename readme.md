@@ -135,18 +135,27 @@ Run `brew cask install provisionql` or [download manually](https://github.com/ea
 
 ## Tip
 
+> After running any of the following commands you will need to relaunch Finder for the changes to take affect.  You can do so quickly with `killall Finder`.
 
 ### Enable cursor text selection inside Quick Look window
 
 &#8804; 10.10 Yosemite
 
     defaults write com.apple.finder QLEnableTextSelection -bool TRUE
-    killall Finder
 
 &#8805; 10.11 El Capitan
 
     defaults write com.apple.finder QLEnableTextSelection -bool YES
-    killall Finder
+
+
+### Disable Quick Look animations
+
+    defaults write -g QLPanelAnimationDuration -float 0
+
+
+### Keep Quick Look window in foreground
+
+    defaults write com.apple.Finder QLHidePanelOnDeactivate 0
 
 
 ## License
