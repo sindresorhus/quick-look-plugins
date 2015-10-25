@@ -135,10 +135,18 @@ Run `brew cask install provisionql` or [download manually](https://github.com/ea
 
 ## Tip
 
-- Run this in your terminal to allow text selection in the Quick Look window:
-    ```
-    defaults write com.apple.finder QLEnableTextSelection -bool true && killall Finder
-    ```
+
+### Enable cursor text selection inside Quick Look window
+
+&#8804; 10.10 Yosemite
+
+    defaults write com.apple.finder QLEnableTextSelection -bool TRUE
+    killall Finder
+
+&#8805; 10.11 El Capitan
+
+    defaults write com.apple.finder QLEnableTextSelection -bool YES
+    killall Finder
 
 
 ## License
