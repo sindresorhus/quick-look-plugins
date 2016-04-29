@@ -36,7 +36,7 @@ Run `brew cask install qlcolorcode` or [download manually](https://qlcolorcode.g
 
 ### [QLStephen](https://github.com/whomwah/qlstephen)
 
-> Preview plain text files without a file extension. Example: README, CHANGELOG, etc.
+> Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
 
 Run `brew cask install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases)
 
