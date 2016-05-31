@@ -25,13 +25,13 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 ## Plugins
 
 
-### [QLColorCode](https://github.com/n8gray/QLColorCode)
+### [QLColorCode](https://github.com/anthonygelibert/QLColorCode)
 
 > Preview source code files with syntax highlighting
 
-Run `brew cask install qlcolorcode` or [download manually](https://qlcolorcode.googlecode.com/files/QLColorCode-2.0.2.tgz)
+Run `brew cask install qlcolorcode` or [download manually](https://github.com/anthonygelibert/QLColorCode/releases)
 
-[![](screenshots/QLColorCode.png)](https://code.google.com/p/qlcolorcode/)
+[![](screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
 
 
 ### [QLStephen](https://github.com/whomwah/qlstephen)
