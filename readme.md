@@ -121,11 +121,12 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 
 ### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
 
-> Preview iOS / OS X app and provision information
+> Preview iOS / macOS app and provision information
 
 Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases)
 
 [![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
+
 
 ## License
 
