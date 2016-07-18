@@ -124,6 +124,15 @@ Run `brew cask install quicklookase` or [download manually](https://github.com/r
 [![](screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
 
+### [QLVideo](https://github.com/Marginal/QLVideo)
+
+> Preview most types of video files, as well as their thumbnails, cover art and metadata
+
+Run `brew cask install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
+
+[![](https://raw.githubusercontent.com/Marginal/QLVideo/master/img/preview.jpeg)](https://github.com/Marginal/QLVideo)
+
+
 ## More
 
 *These are not included in [Install all](#install-all).*
