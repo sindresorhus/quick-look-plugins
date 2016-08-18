@@ -128,6 +128,15 @@ Run `brew cask install provisionql` or [download manually](https://github.com/ea
 [![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
 
+### [QuickLookASE](https://github.com/rsodre/QuickLookASE)
+
+> Preview Adobe ASE Color Swatches generated with Adobe Photoshop, Adobe Illustrator, [Adobe Color CC](https://color.adobe.com/), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](http://www.colourlovers.com/), [Prisma](http://www.codeadventure.com/), among many other tools.
+
+[download manually](https://github.com/rsodre/QuickLookASE/releases)
+
+[![](screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
