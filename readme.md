@@ -18,7 +18,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 ### Manually
 
 - Click "download manually"
-- Move the downloaded .qlgenerator file to /Library/QuickLook
+- Move the downloaded .qlgenerator file to `~/Library/QuickLook`
 - Run `qlmanage -r`
 
 
