@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quiklookase
 ```
 
 ### Manually
@@ -115,6 +115,15 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 [![](screenshots/SuspiciousPackage.png)](http://www.mothersruin.com/software/SuspiciousPackage/)
 
 
+### [QuickLookASE](https://github.com/rsodre/QuickLookASE)
+
+> Preview Adobe ASE Color Swatches generated with Adobe Photoshop, Adobe Illustrator, [Adobe Color CC](https://color.adobe.com/), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](http://www.colourlovers.com/), [Prisma](http://www.codeadventure.com/), among many others.
+
+Run `brew cask install quiklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases)
+
+[![](screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
+
+
 ## More
 
 *These are not included in [Install all](#install-all).*
@@ -126,15 +135,6 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases)
 
 [![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
-
-
-### [QuickLookASE](https://github.com/rsodre/QuickLookASE)
-
-> Preview Adobe ASE Color Swatches generated with Adobe Photoshop, Adobe Illustrator, [Adobe Color CC](https://color.adobe.com/), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](http://www.colourlovers.com/), [Prisma](http://www.codeadventure.com/), among many other tools.
-
-[download manually](https://github.com/rsodre/QuickLookASE/releases)
-
-[![](screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
 
 ## License
