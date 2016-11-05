@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase
 ```
 
 ### Manually
@@ -113,6 +113,15 @@ Run `brew cask install webpquicklook` or [download manually](https://github.com/
 Run `brew cask install suspicious-package` or [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
 
 [![](screenshots/SuspiciousPackage.png)](http://www.mothersruin.com/software/SuspiciousPackage/)
+
+
+### [QuickLookASE](https://github.com/rsodre/QuickLookASE)
+
+> Preview Adobe ASE Color Swatches generated with Adobe Photoshop, Adobe Illustrator, [Adobe Color CC](https://color.adobe.com), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](http://www.colourlovers.com), [Prisma](http://www.codeadventure.com), among many others.
+
+Run `brew cask install quicklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases)
+
+[![](screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
 
 ## More
