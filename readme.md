@@ -29,7 +29,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 
 > Preview source code files with syntax highlighting
 
-Run `brew cask install qlcolorcode` or [download manually](https://github.com/anthonygelibert/QLColorCode/releases)
+Run `brew cask install qlcolorcode` or [download manually](https://github.com/anthonygelibert/QLColorCode/releases/latest)
 
 [![](screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
 
@@ -38,7 +38,7 @@ Run `brew cask install qlcolorcode` or [download manually](https://github.com/an
 
 > Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
 
-Run `brew cask install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases)
+Run `brew cask install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases/latest)
 
 [![](screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
 
@@ -65,7 +65,7 @@ Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.
 
 > Preview .patch files
 
-Run `brew cask install qlprettypatch` or [download manually](https://github.com/atnan/QLPrettyPatch/releases)
+Run `brew cask install qlprettypatch` or [download manually](https://github.com/atnan/QLPrettyPatch/releases/latest)
 
 [![](screenshots/QLPrettyPatch.png)](https://github.com/atnan/QLPrettyPatch)
 
@@ -101,7 +101,7 @@ Run `brew cask install qlimagesize` or [download manually](https://github.com/Ny
 
 > Preview WebP images
 
-Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases)
+Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
 [![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
@@ -119,7 +119,7 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 
 > Preview Adobe ASE Color Swatches generated with Adobe Photoshop, Adobe Illustrator, [Adobe Color CC](https://color.adobe.com), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](http://www.colourlovers.com), [Prisma](http://www.codeadventure.com), among many others.
 
-Run `brew cask install quicklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases)
+Run `brew cask install quicklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases/latest)
 
 [![](screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
@@ -132,7 +132,7 @@ Run `brew cask install quicklookase` or [download manually](https://github.com/r
 
 > Preview iOS / macOS app and provision information
 
-Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases)
+Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
 [![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
