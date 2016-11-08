@@ -130,7 +130,7 @@ Run `brew cask install quicklookase` or [download manually](https://github.com/r
 
 Run `brew cask install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
 
-[![](https://raw.githubusercontent.com/Marginal/QLVideo/master/img/preview.jpeg)](https://github.com/Marginal/QLVideo)
+[![](screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
 
 ## More
