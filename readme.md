@@ -146,6 +146,13 @@ Run `brew cask install provisionql` or [download manually](https://github.com/ea
 [![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
 
+### [QLRest](https://github.com/cluther/qlrest)
+
+> Preview ReST (ReStructuredText) files
+
+Run `brew cask install qlrest` or [download manually](https://github.com/downloads/cluther/qlrest/QLRest.qlgenerator.zip)
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
