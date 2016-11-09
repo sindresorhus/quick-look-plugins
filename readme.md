@@ -133,13 +133,6 @@ Run `brew cask install qlvideo` or [download manually](https://github.com/Margin
 [![](screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
 
-### [QLRest](https://github.com/cluther/qlrest)
-
-> Preview ReST (ReStructuredText) files
-
-Run `brew cask install qlrest` or [download manually](https://github.com/downloads/cluther/qlrest/QLRest.qlgenerator.zip)
-
-
 ## More
 
 *These are not included in [Install all](#install-all).*
@@ -151,6 +144,13 @@ Run `brew cask install qlrest` or [download manually](https://github.com/downloa
 Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
 [![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
+
+
+### [QLRest](https://github.com/cluther/qlrest)
+
+> Preview ReST (ReStructuredText) files
+
+Run `brew cask install qlrest` or [download manually](https://github.com/downloads/cluther/qlrest/QLRest.qlgenerator.zip)
 
 
 ## License
