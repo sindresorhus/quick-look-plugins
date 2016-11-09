@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 ```
 
 ### Manually
@@ -122,6 +122,15 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 Run `brew cask install quicklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases/latest)
 
 [![](screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
+
+
+### [QLVideo](https://github.com/Marginal/QLVideo)
+
+> Preview most types of video files, as well as their thumbnails, cover art and metadata
+
+Run `brew cask install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
+
+[![](screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
 
 ## More
