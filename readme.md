@@ -146,6 +146,15 @@ Run `brew cask install provisionql` or [download manually](https://github.com/ea
 [![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
 
+### [QuickLookAPK](https://github.com/hezi/QuickLookAPK)
+
+> Preview Android APK files
+
+Run `brew cask install quicklookapk` or [download manually](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
+
+[![](screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
