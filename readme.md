@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo asset-catalog-tinkerer
 ```
 
 ### Manually
@@ -163,6 +163,15 @@ Run `brew cask install quicklook-pat` or [download manually](https://github.com/
 
 [![](screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
+### [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer)
+
+> Preview compiled asset catalog files (.car)
+
+Run `brew cask install asset-catalog-tinkerer` or [download manually](https://github.com/insidegui/AssetCatalogTinkerer/releases/latest)
+
+The plugin comes bundled in the app, just run it once to install.
+
+[![](screenshots/AssetCatalogTinkerer.png)](https://github.com/insidegui/AssetCatalogTinkerer)
 
 ## License
 
