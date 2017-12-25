@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 ```
 
 ### Manually
@@ -83,7 +83,11 @@ Run `brew cask install quicklook-csv` or [download manually](http://quicklook-cs
 
 > Preview archives
 
-Run `brew cask install betterzipql` or [download manually](http://macitbetter.com/BetterZipQL.zip)
+> Note: The BetterZipQL plugin was integrated with the BetterZip app.
+
+Run `brew cask install betterzip` to install the BetterZip app and its Quick Look plugin or [download manually](https://macitbetter.com/BetterZip.zip)
+
+The legacy BetterZipQL plugin can be [downloaded here](http://macitbetter.com/BetterZipQL.zip).
 
 [![](screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
