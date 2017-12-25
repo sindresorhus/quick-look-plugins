@@ -83,12 +83,11 @@ Run `brew cask install quicklook-csv` or [download manually](http://quicklook-cs
 
 > Preview archives
 
-> BetterZipQL plugin was integrated with the archiving application BetterZip.
-> Install BetterZip for this Quicklook plugin or install the legacy plugin.
+> Note: The BetterZipQL plugin was integrated with the BetterZip app.
 
-Run `brew cask install betterzip` or [download manually](https://macitbetter.com/BetterZip.zip)
+Run `brew cask install betterzip` to install the BetterZip app and its Quick Look plugin or [download manually](https://macitbetter.com/BetterZip.zip)
 
-For the legacy BetterZipQL plugin you can [download here](http://macitbetter.com/BetterZipQL.zip)
+The legacy BetterZipQL plugin can be [downloaded here](http://macitbetter.com/BetterZipQL.zip).
 
 [![](screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
