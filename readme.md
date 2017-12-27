@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 ```
 
 ### Manually
@@ -68,15 +68,6 @@ Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.
 Run `brew cask install qlprettypatch` or [download manually](https://github.com/atnan/QLPrettyPatch/releases/latest)
 
 [![](screenshots/QLPrettyPatch.png)](https://github.com/atnan/QLPrettyPatch)
-
-
-### [QuickLookCSV](https://github.com/p2/quicklook-csv)
-
-> Preview CSV files
-
-Run `brew cask install quicklook-csv` or [download manually](http://quicklook-csv.googlecode.com/files/QuickLookCSV.dmg)
-
-[![](screenshots/QuickLookCSV.png)](https://github.com/p2/quicklook-csv)
 
 
 ### [BetterZipQL](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
