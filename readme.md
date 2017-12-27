@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 ```
 
 ### Manually
@@ -59,15 +59,6 @@ Run `brew cask install qlmarkdown` or [download manually](https://github.com/dow
 Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
 [![](screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
-
-
-### [QLPrettyPatch](https://github.com/atnan/QLPrettyPatch)
-
-> Preview .patch files
-
-Run `brew cask install qlprettypatch` or [download manually](https://github.com/atnan/QLPrettyPatch/releases/latest)
-
-[![](screenshots/QLPrettyPatch.png)](https://github.com/atnan/QLPrettyPatch)
 
 
 ### [BetterZipQL](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
