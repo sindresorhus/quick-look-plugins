@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo qladdict
 ```
 
 ### Manually
@@ -148,6 +148,15 @@ Run `brew cask install quicklookapk` or [download manually](https://github.com/h
 Run `brew cask install quicklook-pat` or [download manually](https://github.com/pixelrowdies/quicklook-pat/releases)
 
 [![](screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
+
+
+### [QLAddict](https://github.com/tattali/QLAddict)
+
+> Preview subtitles (.srt) files
+
+Run `brew cask install qladdict` or [download manually](https://github.com/tattali/QLAddict/releases)
+
+[![](screenshots/QLAddict.png)](https://github.com/tattali/QLAddict)
 
 
 ## License
