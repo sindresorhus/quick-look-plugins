@@ -78,9 +78,9 @@ The legacy BetterZipQL plugin can be [downloaded here](http://macitbetter.com/Be
 
 > Display image size and resolution
 
-Run `brew cask install qlimagesize` or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
+Run `brew cask install qlimagesize` or [download manually](https://github.com/L1cardo/qlImageSize#installation)
 
-[![](screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
+[![](screenshots/qlImageSize.png)](https://github.com/L1cardo/qlImageSize)
 
 
 ### [WebP](https://github.com/dchest/webp-quicklook)
