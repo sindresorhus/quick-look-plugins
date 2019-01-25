@@ -63,7 +63,7 @@ Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.
 [![](screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 
 
-### [BetterZipQL](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
+### [BetterZipQL](https://macitbetter.com/downloads/)
 
 > Preview archives
 
@@ -71,7 +71,7 @@ Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.
 
 Run `brew cask install betterzip` to install the BetterZip app and its Quick Look plugin or [download manually](https://macitbetter.com/BetterZip.zip)
 
-The legacy BetterZipQL plugin can be [downloaded here](http://macitbetter.com/BetterZipQL.zip).
+The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/dl/BetterZipQL-1.5.zip).
 
 [![](screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
