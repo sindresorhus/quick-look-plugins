@@ -12,10 +12,8 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 ```
-
-*…except for [`qlImageSize`](#qlimagesize)*
 
 ### Manually
 
@@ -80,7 +78,7 @@ The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/d
 
 > Display image size and resolution
 
-~~Run `brew cask install qlimagesize` [(more info)](https://github.com/Homebrew/homebrew-cask/pull/57212)~~ or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
+Run `brew cask install qlimagesize` or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
 
 [![](screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
