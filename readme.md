@@ -145,6 +145,8 @@ Run `brew cask install quicklook-pat` or [download manually](https://github.com/
 
 > Preview WebP images
 
+> NOTE: this is already covered by `qlImageSize`, so this plugin is listed here only in case you do not like `qlImageSize` 
+
 Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
 [![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
