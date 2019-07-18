@@ -150,6 +150,17 @@ Run `brew cask install quicklook-pat` or [download manually](https://github.com/
 [![](screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
 
+### [QuickLookCSV](https://github.com/p2/quicklook-csv)
+
+> Preview csv files
+
+> NOTE: preview of csv files is already covered by QLStephen, but this version provides a bit more details on the file format (columns, rows, separator)
+
+Run `brew cask install quicklook-csv` or [download manually](https://github.com/p2/quicklook-csv/releases/latest)
+
+[![](screenshots/QuickLookCSV.png)](https://github.com/p2/quicklook-csv)
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
