@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package quicklookase qlvideo
 ```
 
 ### Manually
@@ -83,15 +83,6 @@ Run `brew cask install qlimagesize` or [download manually](https://github.com/Ny
 [![](screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
 
-### [WebP](https://github.com/dchest/webp-quicklook)
-
-> Preview WebP images
-
-Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
-
-[![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
-
-
 ### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)
 
 > Preview the contents of a standard Apple installer package
@@ -148,6 +139,15 @@ Run `brew cask install quicklookapk` or [download manually](https://github.com/h
 Run `brew cask install quicklook-pat` or [download manually](https://github.com/pixelrowdies/quicklook-pat/releases)
 
 [![](screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
+
+
+### [WebP](https://github.com/dchest/webp-quicklook)
+
+> Preview WebP images
+
+Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
+
+[![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
 
 ## License
