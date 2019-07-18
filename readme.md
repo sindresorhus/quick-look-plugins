@@ -118,13 +118,15 @@ Run `brew cask install qlvideo` or [download manually](https://github.com/Margin
 
 [![](screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
+
 ### [QLMobi](https://github.com/bfabiszewski/QLMobi)
 
 > Preview various ebook formats used on Kindle readers (prc, mobi, azw, azw3, azw4 and some pdb files)
 
 Run `brew cask install qlmobi` or [download manually](https://github.com/bfabiszewski/QLMobi/releases/latest)
 
-[![](screenshots/QLMobi.png)](https://github.com/bfabiszewski/QLMobi)
+[![](screenshots/QLMobi.jpg)](https://github.com/bfabiszewski/QLMobi)
+
 
 ## More
 
