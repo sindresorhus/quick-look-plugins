@@ -26,7 +26,7 @@ xattr -r ~/Library/QuickLook/
 Then to remove attributes you can use:
 
 ```
-attr -d -r com.apple.quarantine ~/Library/QuickLook/
+xattr -d -r com.apple.quarantine ~/Library/QuickLook/
 ```
 
 
