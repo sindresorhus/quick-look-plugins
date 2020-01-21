@@ -15,15 +15,17 @@
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package quicklookase qlvideo
 ```
 
-##### Catalina Notes
+##### Catalina notes
 
-To get plugins working in Catalina you will need to remove the quarantine attribute.  To see attributes you can use
+To get plugins working in Catalina, you will need to remove the quarantine attribute.
+
+Run this to see the attributes:
 
 ```
 xattr -r ~/Library/QuickLook/
 ```
 
-Then to remove attributes you can use:
+And run this to remove the attributes:
 
 ```
 xattr -d -r com.apple.quarantine ~/Library/QuickLook/
