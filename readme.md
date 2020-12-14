@@ -5,14 +5,14 @@
 
 ## Install
 
-### Using [Homebrew Cask](https://github.com/phinze/homebrew-cask)
+### Using [Homebrew](https://brew.sh)
 
-- Run `brew cask install <package>`
+- Run `brew install <package>`
 
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package quicklookase qlvideo
+brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package quicklookase qlvideo
 ```
 
 ##### Catalina notes
@@ -46,7 +46,7 @@ xattr -d -r com.apple.quarantine ~/Library/QuickLook
 
 > Preview source code files with syntax highlighting
 
-Run `brew cask install qlcolorcode` or [download manually](https://github.com/anthonygelibert/QLColorCode/releases/latest)
+Run `brew install qlcolorcode` or [download manually](https://github.com/anthonygelibert/QLColorCode/releases/latest)
 
 [![](screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
 
@@ -55,7 +55,7 @@ Run `brew cask install qlcolorcode` or [download manually](https://github.com/an
 
 > Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
 
-Run `brew cask install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases/latest)
+Run `brew install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases/latest)
 
 [![](screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
 
@@ -64,7 +64,7 @@ Run `brew cask install qlstephen` or [download manually](https://github.com/whom
 
 > Preview Markdown files
 
-Run `brew cask install qlmarkdown` or [download manually](https://github.com/downloads/toland/qlmarkdown/QLMarkdown-1.3.zip)
+Run `brew install qlmarkdown` or [download manually](https://github.com/downloads/toland/qlmarkdown/QLMarkdown-1.3.zip)
 
 [![](screenshots/QLMarkdown.png)](https://github.com/toland/qlmarkdown)
 
@@ -73,7 +73,7 @@ Run `brew cask install qlmarkdown` or [download manually](https://github.com/dow
 
 > Preview JSON files
 
-Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
+Run `brew install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
 [![](screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 
@@ -84,7 +84,7 @@ Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.
 
 > Note: The BetterZipQL plugin was integrated with the BetterZip app.
 
-Run `brew cask install betterzip` to install the BetterZip app and its Quick Look plugin or [download manually](https://macitbetter.com/BetterZip.zip)
+Run `brew install betterzip` to install the BetterZip app and its Quick Look plugin or [download manually](https://macitbetter.com/BetterZip.zip)
 
 The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/dl/BetterZipQL-1.5.zip).
 
@@ -95,7 +95,7 @@ The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/d
 
 > Display image size and resolution
 
-Run `brew cask install qlimagesize` or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
+Run `brew install qlimagesize` or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
 
 [![](screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
@@ -104,7 +104,7 @@ Run `brew cask install qlimagesize` or [download manually](https://github.com/Ny
 
 > Preview the contents of a standard Apple installer package
 
-Run `brew cask install suspicious-package` or [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
+Run `brew install suspicious-package` or [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
 
 [![](screenshots/SuspiciousPackage.png)](http://www.mothersruin.com/software/SuspiciousPackage/)
 
@@ -113,7 +113,7 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 
 > Preview Adobe ASE Color Swatches generated with Adobe Photoshop, Adobe Illustrator, [Adobe Color CC](https://color.adobe.com), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](http://www.colourlovers.com), [Prisma](http://www.codeadventure.com), among many others.
 
-Run `brew cask install quicklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases/latest)
+Run `brew install quicklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases/latest)
 
 [![](screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
@@ -122,7 +122,7 @@ Run `brew cask install quicklookase` or [download manually](https://github.com/r
 
 > Preview most types of video files, as well as their thumbnails, cover art and metadata
 
-Run `brew cask install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
+Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
 
 [![](screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
@@ -135,7 +135,7 @@ Run `brew cask install qlvideo` or [download manually](https://github.com/Margin
 
 > Preview iOS / macOS app and provision information
 
-Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
+Run `brew install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
 [![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
@@ -144,7 +144,7 @@ Run `brew cask install provisionql` or [download manually](https://github.com/ea
 
 > Preview Android APK files
 
-Run `brew cask install quicklookapk` or [download manually](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
+Run `brew install quicklookapk` or [download manually](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
 
 [![](screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
 
@@ -153,7 +153,7 @@ Run `brew cask install quicklookapk` or [download manually](https://github.com/h
 
 > Preview Adobe Photoshop pattern files
 
-Run `brew cask install quicklook-pat` or [download manually](https://github.com/pixelrowdies/quicklook-pat/releases)
+Run `brew install quicklook-pat` or [download manually](https://github.com/pixelrowdies/quicklook-pat/releases)
 
 [![](screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
@@ -164,7 +164,7 @@ Run `brew cask install quicklook-pat` or [download manually](https://github.com/
 
 > NOTE: this is already covered by `qlImageSize`, so this plugin is listed here only in case you do not like `qlImageSize` 
 
-Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
+Run `brew install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
 [![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
