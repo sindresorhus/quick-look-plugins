@@ -1,6 +1,6 @@
 # Quick Look plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> List of useful [Quick Look](http://en.wikipedia.org/wiki/Quick_Look) plugins for developers
+> List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 
 
 ## Install
@@ -88,7 +88,7 @@ Run `brew install betterzip` to install the BetterZip app and its Quick Look plu
 
 The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/dl/BetterZipQL-1.5.zip).
 
-[![](screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
+[![](screenshots/BetterZipQL.png)](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
 
 ### [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
@@ -100,18 +100,27 @@ Run `brew install qlimagesize` or [download manually](https://github.com/Nyx0uf/
 [![](screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
 
-### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)
+### [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/)
 
 > Preview the contents of a standard Apple installer package
 
-Run `brew install suspicious-package` or [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
+Run `brew install suspicious-package` or [download manually](https://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
 
-[![](screenshots/SuspiciousPackage.png)](http://www.mothersruin.com/software/SuspiciousPackage/)
+[![](screenshots/SuspiciousPackage.png)](https://www.mothersruin.com/software/SuspiciousPackage/)
+
+
+### [Apparency](https://www.mothersruin.com/software/Apparency/)
+
+> Preview the contents of a macOS application
+
+Run `brew install apparency` or [download manually](https://mothersruin.com/software/downloads/Apparency.dmg)
+
+[![](screenshots/Apparency.png)](https://mothersruin.com/software/Apparency/)
 
 
 ### [QuickLookASE](https://github.com/rsodre/QuickLookASE)
 
-> Preview Adobe ASE Color Swatches generated with Adobe Photoshop, Adobe Illustrator, [Adobe Color CC](https://color.adobe.com), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](http://www.colourlovers.com), [Prisma](http://www.codeadventure.com), among many others.
+> Preview Adobe ASE Color Swatches generated with Adobe Photoshop, Adobe Illustrator, [Adobe Color CC](https://color.adobe.com), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](https://www.colourlovers.com), [Prisma](http://www.codeadventure.com), among many others.
 
 Run `brew install quicklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases/latest)
 
@@ -162,7 +171,7 @@ Run `brew install quicklook-pat` or [download manually](https://github.com/pixel
 
 > Preview WebP images
 
-> NOTE: this is already covered by `qlImageSize`, so this plugin is listed here only in case you do not like `qlImageSize` 
+> NOTE: this is already covered by `qlImageSize`, so this plugin is listed here only in case you do not like `qlImageSize`
 
 Run `brew install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
@@ -171,6 +180,6 @@ Run `brew install webpquicklook` or [download manually](https://github.com/dches
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
