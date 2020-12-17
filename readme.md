@@ -2,7 +2,6 @@
 
 > List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 
-
 ## Install
 
 ### Using [Homebrew](https://brew.sh)
@@ -31,16 +30,13 @@ And run this to remove the attributes:
 xattr -d -r com.apple.quarantine ~/Library/QuickLook
 ```
 
-
 ### Manually
 
 - Click "download manually"
 - Move the downloaded .qlgenerator file to `~/Library/QuickLook`
 - Run `qlmanage -r`
 
-
 ## Plugins
-
 
 ### [QLColorCode](https://github.com/anthonygelibert/QLColorCode)
 
@@ -50,7 +46,6 @@ Run `brew install qlcolorcode` or [download manually](https://github.com/anthony
 
 [![](screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
 
-
 ### [QLStephen](https://github.com/whomwah/qlstephen)
 
 > Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
@@ -58,7 +53,6 @@ Run `brew install qlcolorcode` or [download manually](https://github.com/anthony
 Run `brew install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases/latest)
 
 [![](screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
-
 
 ### [QLMarkdown](https://github.com/toland/qlmarkdown)
 
@@ -68,7 +62,6 @@ Run `brew install qlmarkdown` or [download manually](https://github.com/download
 
 [![](screenshots/QLMarkdown.png)](https://github.com/toland/qlmarkdown)
 
-
 ### [QuickLookJSON](http://www.sagtau.com/quicklookjson.html)
 
 > Preview JSON files
@@ -76,7 +69,6 @@ Run `brew install qlmarkdown` or [download manually](https://github.com/download
 Run `brew install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
 [![](screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
-
 
 ### [BetterZipQL](https://macitbetter.com/downloads/)
 
@@ -90,7 +82,6 @@ The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/d
 
 [![](screenshots/BetterZipQL.png)](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
-
 ### [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
 
 > Display image size and resolution
@@ -98,7 +89,6 @@ The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/d
 Run `brew install qlimagesize` or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
 
 [![](screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
-
 
 ### [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/)
 
@@ -108,15 +98,13 @@ Run `brew install suspicious-package` or [download manually](https://www.mothers
 
 [![](screenshots/SuspiciousPackage.png)](https://www.mothersruin.com/software/SuspiciousPackage/)
 
-
 ### [Apparency](https://www.mothersruin.com/software/Apparency/)
 
-> Preview the contents of a macOS application
+> Preview the contents of a macOS app
 
 Run `brew install apparency` or [download manually](https://mothersruin.com/software/downloads/Apparency.dmg)
 
 [![](screenshots/Apparency.png)](https://mothersruin.com/software/Apparency/)
-
 
 ### [QuickLookASE](https://github.com/rsodre/QuickLookASE)
 
@@ -126,7 +114,6 @@ Run `brew install quicklookase` or [download manually](https://github.com/rsodre
 
 [![](screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
-
 ### [QLVideo](https://github.com/Marginal/QLVideo)
 
 > Preview most types of video files, as well as their thumbnails, cover art and metadata
@@ -134,7 +121,6 @@ Run `brew install quicklookase` or [download manually](https://github.com/rsodre
 Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
 
 [![](screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
-
 
 ## More
 
@@ -148,7 +134,6 @@ Run `brew install provisionql` or [download manually](https://github.com/ealeksa
 
 [![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
-
 ### [QuickLookAPK](https://github.com/hezi/QuickLookAPK)
 
 > Preview Android APK files
@@ -156,7 +141,6 @@ Run `brew install provisionql` or [download manually](https://github.com/ealeksa
 Run `brew install quicklookapk` or [download manually](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
 
 [![](screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
-
 
 ### [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat)
 
@@ -166,17 +150,15 @@ Run `brew install quicklook-pat` or [download manually](https://github.com/pixel
 
 [![](screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
-
 ### [WebP](https://github.com/dchest/webp-quicklook)
 
 > Preview WebP images
 
-> NOTE: this is already covered by `qlImageSize`, so this plugin is listed here only in case you do not like `qlImageSize`
+> NOTE: This is already covered by `qlImageSize`, so this plugin is listed here only in case you do not like `qlImageSize`.
 
 Run `brew install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
 [![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
-
 
 ## License
 
