@@ -126,6 +126,14 @@ Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QL
 
 *These are not included in [Install all](#install-all).*
 
+### [Peek](https://bigzlabs.com/peek) 💰
+
+> Peek delivers Quick Look functionality you will not find anywhere else on this planet to over 300 file extensions: copy and find text, jump to line/page numbers, Github-flavored Markdown with a generated table of contents, syntax highlighting, scroll restoration, and more.
+
+Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-extension/id1554235898)
+
+[![](screenshots/Peek.gif)](https://bigzlabs.com/peek)
+
 ### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
 
 > Preview iOS / macOS app and provision information
