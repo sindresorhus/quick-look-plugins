@@ -162,15 +162,13 @@ Run `brew install webpquicklook` or [download manually](https://github.com/dches
 
 ### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-> Preview many different Source Code Files
+> Preview many different source code files
 
-Run `brew install --cask syntax-highlight` or [download manually](https://github.com/sbarex/SourceCodeSyntaxHighlight/releases/latest)
-
-after installing run the app manually for the first time
+Run `brew install --cask --no-quarantine syntax-highlight` or [download manually](https://github.com/sbarex/SourceCodeSyntaxHighlight/releases/latest)
 
 [![](https://user-images.githubusercontent.com/8471055/118415204-5f53fc80-b6a9-11eb-93d8-b88c442c5744.png)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-> NOTE: This might overwrite some other Quicklook Plugins
+**Note:** This might overwrite some other Quick Look plugins.
 
 ## License
 
