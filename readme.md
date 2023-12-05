@@ -178,6 +178,13 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 **Note:** This might overwrite some other Quick Look plugins.
 
+
+## Install [Quick-look](https://github.com/QL-Win/QuickLook) for Windows
+Run `winget install -e --id QL-Win.QuickLook` in powershell or download it from the [Windows Store](https://apps.microsoft.com/detail/9NV4BS3L1H4S) or [manually](https://github.com/QL-Win/QuickLook/releases/latest) 
+
+[![](https://user-images.githubusercontent.com/1687847/64730506-2a60d100-d4e8-11e9-95a6-f13dbd869b2a.jpeg)](https://github.com/QL-Win/QuickLook)
+
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
