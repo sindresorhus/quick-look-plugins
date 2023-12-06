@@ -36,6 +36,11 @@ xattr -d -r com.apple.quarantine ~/Library/QuickLook
 - Move the downloaded .qlgenerator file to `~/Library/QuickLook`
 - Run `qlmanage -r`
 
+### Some useful commands
+
+- `qlmanage -m plugins` lists every generator used by `quicklookd`.
+- `pluginkit -mvp com.apple.quicklook.preview QLSupportedContentTypes` queries your macOS plugin database for those matching QuickLook Preview plugins and the `QLSupportedContentTypes` protocol (may show some more things than `qlmanage`).
+
 ## Plugins
 
 ### [QLColorCode](https://github.com/anthonygelibert/QLColorCode)
