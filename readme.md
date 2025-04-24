@@ -134,6 +134,14 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 [![](screenshots/Peek.png)](https://bigzlabs.com/peek)
 
+### [Folder Preview](https://anybox.ltd/folder-preview) 💰
+
+> Quick look folders and ZIP files with the familiar experience of Finder.
+
+Purchase on [Mac App Store ($1.99)](https://apps.apple.com/us/app/folder-preview/id6698876601)
+
+[![](screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
+
 ### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
 
 > Preview iOS / macOS app and provision information
