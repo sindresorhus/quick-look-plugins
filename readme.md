@@ -130,15 +130,15 @@ Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QL
 
 > Peek allows you to copy and find text, jump to line numbers, render Github-flavored Markdown with a generated table of contents, restore scroll positions, highlight syntax, & more in the Quick Look previews of over 300 file extensions.
 
-Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-extension/id1554235898)
+Purchase on the [App Store](https://apps.apple.com/app/peek-quick-look-extension/id1554235898).
 
 [![](screenshots/Peek.png)](https://bigzlabs.com/peek)
 
 ### [Folder Preview](https://anybox.ltd/folder-preview) 💰
 
-> Quick look folders and ZIP files with the familiar experience of Finder.
+> Preview folders and ZIP files with the familiar experience of Finder.
 
-Purchase on [Mac App Store ($1.99)](https://apps.apple.com/us/app/folder-preview/id6698876601)
+Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id6698876601).
 
 [![](screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
 
