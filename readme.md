@@ -82,14 +82,6 @@ The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/d
 
 [![](screenshots/BetterZipQL.png)](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
-### [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
-
-> Display image size and resolution
-
-Run `brew install qlimagesize` or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
-
-[![](screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
-
 ### [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/)
 
 > Preview the contents of a standard Apple installer package
