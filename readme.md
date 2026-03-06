@@ -92,6 +92,14 @@ Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QL
 
 [![](screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
+### [Source Code Preview](https://anybox.ltd/source-code-preview) 💰
+
+> Bundled with over 10 beautiful color themes, Source Code Preview supports syntax highlighting for over 50 languages, including JavaScript, Python, Java, CSS, and JSON.
+
+Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id6759270528).
+
+[![](screenshots/SourceCodePreview.png)](https://anybox.ltd/source-code-preview)
+
 ### [Peek](https://bigzlabs.com/peek) 💰
 
 > Peek allows you to copy and find text, jump to line numbers, render Github-flavored Markdown with a generated table of contents, restore scroll positions, highlight syntax, & more in the Quick Look previews of over 300 file extensions.
