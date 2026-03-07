@@ -152,6 +152,14 @@ Run `brew install webpquicklook` or [download manually](https://github.com/dches
 
 [![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
+### [TorrentPreview](https://github.com/sveinbjornpalsson/TorrentPreview)
+
+> Preview .torrent files with file list, trackers, and metadata
+
+[Download manually](https://github.com/sveinbjornpalsson/TorrentPreview/releases/latest)
+
+[![](screenshots/TorrentPreview.png)](https://github.com/sveinbjornpalsson/TorrentPreview)
+
 ### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
 > Preview many different source code files
