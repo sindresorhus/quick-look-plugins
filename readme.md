@@ -94,7 +94,7 @@ Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QL
 
 ### [Source Code Preview](https://anybox.ltd/source-code-preview) 💰
 
-> Bundled with over 10 beautiful color themes, Source Code Preview supports syntax highlighting for over 50 languages, including JavaScript, Python, Java, CSS, and JSON.
+> Includes 10+ color themes and syntax highlighting for 50+ languages, including JavaScript, Python, Java, CSS, and JSON.
 
 Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id6759270528).
 
