@@ -118,11 +118,11 @@ Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id66988766
 
 [![](screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
 
-### [Folder Quick Look](https://apps.apple.com/app/id6753110395)
+### [Folder Quick Look](https://apps.apple.com/app/id6753110395) 💰
 
 > Preview folder and archive contents (ZIP, RAR, and more) instantly in macOS Quick Look.
 
-Download on the [App Store](https://apps.apple.com/app/id6753110395).
+Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 
 [![](screenshots/FolderQuickLook.png)](https://apps.apple.com/app/id6753110395)
 
