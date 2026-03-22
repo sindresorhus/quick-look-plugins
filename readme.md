@@ -120,7 +120,7 @@ Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id66988766
 
 ### [Folder Quick Look](https://apps.apple.com/app/id6753110395) 💰
 
-> Preview folder and archive contents (ZIP, RAR, and more) instantly in macOS Quick Look.
+> Preview folder and archive contents (ZIP, RAR, and more).
 
 Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 
