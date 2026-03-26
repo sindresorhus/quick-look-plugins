@@ -178,6 +178,16 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 **Note:** This might overwrite some other Quick Look plugins.
 
+### [Unfold](https://flew.gg/unfold) 💰
+
+> Adds Quick Look for over 100 file extensions, including archives, source code, markdown, mermaid diagrams, ebooks, and comics.
+
+Purchase on the [website](https://flew.gg/unfold), download from the website or run `brew install --cask flewgg/tap/unfold`
+
+[![](screenshots/Unfold.png)](https://flew.gg/unfold)
+
+**Note:** This might overwrite some other Quick Look plugins.
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
