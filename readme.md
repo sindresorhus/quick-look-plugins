@@ -178,6 +178,14 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 **Note:** This might overwrite some other Quick Look plugins.
 
+### [CSV Quick Look](https://github.com/adamorad/csv-quick-look)
+
+> Preview CSV and TSV files as a spreadsheet table — with virtual scroll, column sort, live filter, and dark mode
+
+[Download manually](https://github.com/adamorad/csv-quick-look/releases/latest) *(build from source in Xcode)*
+
+[![](screenshots/CSVQuickLook.png)](https://github.com/adamorad/csv-quick-look)
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
