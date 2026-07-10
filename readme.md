@@ -32,6 +32,14 @@ xattr -d -r com.apple.quarantine ~/Library/QuickLook
 
 ## Plugins
 
+### [Burrete](https://github.com/SergeiNikolenko/Burrete)
+
+> Preview PDB, mmCIF, SDF, XYZ, trajectories, and chemistry tables in Finder
+
+[Download manually](https://github.com/SergeiNikolenko/Burrete/releases/latest)
+
+[![](screenshots/Burrete.png)](https://github.com/SergeiNikolenko/Burrete)
+
 ### [QLStephen](https://github.com/whomwah/qlstephen)
 
 > Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
