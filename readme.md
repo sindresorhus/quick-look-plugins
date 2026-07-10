@@ -32,14 +32,6 @@ xattr -d -r com.apple.quarantine ~/Library/QuickLook
 
 ## Plugins
 
-### [Burrete](https://github.com/SergeiNikolenko/Burrete)
-
-> Preview PDB, mmCIF, SDF, XYZ, trajectories, and chemistry tables in Finder
-
-[Download manually](https://github.com/SergeiNikolenko/Burrete/releases/latest)
-
-[![](screenshots/Burrete.png)](https://github.com/SergeiNikolenko/Burrete)
-
 ### [QLStephen](https://github.com/whomwah/qlstephen)
 
 > Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
@@ -185,6 +177,14 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 [![](https://user-images.githubusercontent.com/8471055/118415204-5f53fc80-b6a9-11eb-93d8-b88c442c5744.png)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
 **Note:** This might overwrite some other Quick Look plugins.
+
+### [Burrete](https://github.com/SergeiNikolenko/Burrete)
+
+> Preview PDB, mmCIF, SDF, XYZ, trajectories, and chemistry tables in Finder
+
+[Download manually](https://github.com/SergeiNikolenko/Burrete/releases/latest)
+
+[![](screenshots/Burrete.png)](https://github.com/SergeiNikolenko/Burrete)
 
 ## License
 
