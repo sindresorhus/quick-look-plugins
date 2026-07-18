@@ -48,13 +48,13 @@ Run `brew install --cask qlmarkdown` or [download manually](https://github.com/s
 
 [![](screenshots/QLMarkdown.png)](https://github.com/sbarex/QLMarkdown)
 
-### [QuickLookJSON](http://www.sagtau.com/quicklookjson.html)
+### [QuickLookJSON](https://www.sagtau.com/quicklookjson.html)
 
 > Preview JSON files
 
-[Download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
+[Download manually](https://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
-[![](screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
+[![](screenshots/QuickLookJSON.png)](https://www.sagtau.com/quicklookjson.html)
 
 ### [BetterZipQL](https://macitbetter.com/downloads/)
 
