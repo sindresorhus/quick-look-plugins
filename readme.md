@@ -192,7 +192,7 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 Run `brew install --cask cavoco/tap/preview3mf` or [download manually](https://github.com/cavoco/Preview3MF/releases/latest)
 
-[![](https://raw.githubusercontent.com/cavoco/Preview3MF/main/docs/preview.png)](https://github.com/cavoco/Preview3MF)
+[![](screenshots/Preview3MF.png)](https://github.com/cavoco/Preview3MF)
 
 ## License
 
