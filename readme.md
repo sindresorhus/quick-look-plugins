@@ -186,6 +186,14 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 [![](screenshots/Burrete.png)](https://github.com/SergeiNikolenko/Burrete)
 
+### [Preview3MF](https://github.com/cavoco/Preview3MF)
+
+> Preview 3MF 3D-printing models — real 3D rendering plus Finder thumbnails
+
+Run `brew install --cask cavoco/tap/preview3mf` or [download manually](https://github.com/cavoco/Preview3MF/releases/latest)
+
+[![](screenshots/Preview3MF.png)](https://github.com/cavoco/Preview3MF)
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
